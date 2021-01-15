@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Open Source at GraphApi.io 
 
-You can use the [editor on GitHub](https://github.com/graphapi-io/graphapi-io.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+As an organization and community, we are committed to providing an inclusive environment for every developer. 
+Violations of our code of conduct may lead to exclusion. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are following guidelines for open source projects which have been established by the [TODO Group](https://todogroup.org/).
 
-### Markdown
+**As a community we strive to:**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Be welcoming and open to different viewpoints.
+- Be open to constructive criticism.
+- Be friendly and patient - use welcoming and inclusive language.
+- Be open to learn from one another.
+- Behave professionally and respectfully at all times.
 
-```markdown
-Syntax highlighted code block
+**Our responsobilities**
 
-# Header 1
-## Header 2
-### Header 3
+As contributors, members, or guests we will not tolerate behavior, such as:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/graphapi-io/graphapi-io.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Violent threats or language directed against another person.
+- Offensive comments or discriminatory jokes and lanugage.
+- Posting of sexually explicit or violent material.
+- Personal insults, especially those using racist or sexist terms.
+- Repeated harassment of others.
+- Publishing private information of others without permission.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Instances of unacceptable behavior might be reported to opensource@graphapi.io 
