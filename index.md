@@ -13,7 +13,7 @@ We are following guidelines for open source projects which have been established
 - Be open to learn from one another.
 - Behave professionally and respectfully at all times.
 
-**Our responsobilities**
+**Our responsibilities**
 
 As contributors, members, or guests we will not tolerate behavior, such as:
 
