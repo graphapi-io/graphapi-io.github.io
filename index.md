@@ -26,11 +26,11 @@ As contributors, members, or guests we will not tolerate behavior, such as:
 
 ### Resources
 
-- Code examples (MIT License) (https://github.com/graphapi-io/resources)[https://github.com/graphapi-io/resources]
+- Code examples (MIT License) [https://github.com/graphapi-io/resources](https://github.com/graphapi-io/resources)
 
 ### GraphApi-io
 
-- Sign up @ (https://my.graphapi.io/signup)[https://my.graphapi.io/signup]
+- Sign up @ [https://my.graphapi.io/signup](https://my.graphapi.io/signup)
 - GraphApi-io [Terms](https://graphapi.io/terms) 
 - GraphApi-io [Privacy](https://graphapi.io/privacy)
 - GraphApi-io [DPA](https://graphapi.io/dpa) 
