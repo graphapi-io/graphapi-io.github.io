@@ -24,6 +24,17 @@ As contributors, members, or guests we will not tolerate behavior, such as:
 - Repeated harassment of others.
 - Publishing private information of others without permission.
 
+### Resources
+
+- Code examples (MIT License) (https://github.com/graphapi-io/resources)[https://github.com/graphapi-io/resources]
+
+### GraphApi-io
+
+- Sign up @ (https://my.graphapi.io/signup)[https://my.graphapi.io/signup]
+- GraphApi-io [Terms](https://graphapi.io/terms) 
+- GraphApi-io [Privacy](https://graphapi.io/privacy)
+- GraphApi-io [DPA](https://graphapi.io/dpa) 
+
 ### Support or Contact
 
 Instances of unacceptable behavior might be reported to opensource@graphapi.io 
